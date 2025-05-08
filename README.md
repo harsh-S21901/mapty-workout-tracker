@@ -38,6 +38,7 @@ Original project idea and starter design by [Jonas Schmedtmann's Udemy course](h
 
 To run locally:
 ```bash
-git clone https://github.com/harsh-S21901/mapty-enhanced.git
-cd mapty-enhanced
-open index.html
+git clone https://github.com/harsh-S21901/mapty-workout-tracker.git
+cd mapty-workout-tracker
+add live-server
+run live-server on cmd
